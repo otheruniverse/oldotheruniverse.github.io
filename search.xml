@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>2019-1027</title>
+      <link href="/2019/10/27/"/>
+      <url>/2019/10/27/</url>
+      
+        <content type="html"><![CDATA[<p>花了一下午把博客部署到Coding，之后总结一下搭站的基本过程：<br>        先在电脑（服务器）安装hexo,git,node.js,网上有很多教程，可以参考。可以把它们理解为部署博客的固件，安装好以后，hexo在本地生成一个Blog的文件夹，便是主文件夹。hexo只是搭建了一个框架，我们还需要自己安装一个主题，在Blog文件夹下的themes文件夹下放入自己的主题，一般为next，我用的是hexo-3。然后在本地（电脑上）调试好以后开始部署到Github和Coding上。目的是让别人可以通过网络访问你的博客。<br>        部署完成后可以绑定自己的域名，我的是<a href="https://theboy.top/">theboy.top</a>，别人就可以通过域名访问博客了。<br>        以后想修改一下评论功能，以及添加一个音乐模块，把好听的歌放上去。</p><p>在阿里云申请了一个免费的服务器，一个月的时间，可以随便玩玩，有效期2019-10-27到2019-11-27。<br>        IP： 118.190.107.176<br>        用户： user<br>        密码： 520131499</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习笔记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 笔记 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>十月随笔</title>
       <link href="/2019/10/20/"/>
       <url>/2019/10/20/</url>

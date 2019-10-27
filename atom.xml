@@ -5,9 +5,9 @@
   <subtitle>个人博客</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://www.theboy.top/"/>
-  <updated>2019-10-19T08:20:36.907Z</updated>
-  <id>http://www.theboy.top/</id>
+  <link href="https://theboy.top/"/>
+  <updated>2019-10-27T11:30:48.530Z</updated>
+  <id>https://theboy.top/</id>
   
   <author>
     <name>凉快</name>
@@ -17,9 +17,35 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>2019-1027</title>
+    <link href="https://theboy.top/2019/10/27/"/>
+    <id>https://theboy.top/2019/10/27/</id>
+    <published>2019-10-27T11:00:26.000Z</published>
+    <updated>2019-10-27T11:30:48.530Z</updated>
+    
+    <content type="html"><![CDATA[<p>花了一下午把博客部署到Coding，之后总结一下搭站的基本过程：<br>        先在电脑（服务器）安装hexo,git,node.js,网上有很多教程，可以参考。可以把它们理解为部署博客的固件，安装好以后，hexo在本地生成一个Blog的文件夹，便是主文件夹。hexo只是搭建了一个框架，我们还需要自己安装一个主题，在Blog文件夹下的themes文件夹下放入自己的主题，一般为next，我用的是hexo-3。然后在本地（电脑上）调试好以后开始部署到Github和Coding上。目的是让别人可以通过网络访问你的博客。<br>        部署完成后可以绑定自己的域名，我的是<a href="https://theboy.top/">theboy.top</a>，别人就可以通过域名访问博客了。<br>        以后想修改一下评论功能，以及添加一个音乐模块，把好听的歌放上去。</p><p>在阿里云申请了一个免费的服务器，一个月的时间，可以随便玩玩，有效期2019-10-27到2019-11-27。<br>        IP： 118.190.107.176<br>        用户： user<br>        密码： 520131499</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;花了一下午把博客部署到Coding，之后总结一下搭站的基本过程：&lt;br&gt;        先在电脑（服务器）安装hexo,git,node.js,网上有很多教程，可以参考。可以把它们理解为部署博客的固件，安装好以后，hexo在本地生成一个Blog的文件夹，便是主文件夹。hex
+      
+    
+    </summary>
+    
+    
+      <category term="学习笔记" scheme="https://theboy.top/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="笔记" scheme="https://theboy.top/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
     <title>十月随笔</title>
-    <link href="http://www.theboy.top/2019/10/20/"/>
-    <id>http://www.theboy.top/2019/10/20/</id>
+    <link href="https://theboy.top/2019/10/20/"/>
+    <id>https://theboy.top/2019/10/20/</id>
     <published>2019-10-20T08:45:07.000Z</published>
     <updated>2019-10-19T08:20:36.907Z</updated>
     
@@ -36,14 +62,14 @@
     
     
     
-      <category term="随笔" scheme="http://www.theboy.top/tags/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="https://theboy.top/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
   <entry>
     <title>打开新世界的大门</title>
-    <link href="http://www.theboy.top/2019/10/01/"/>
-    <id>http://www.theboy.top/2019/10/01/</id>
+    <link href="https://theboy.top/2019/10/01/"/>
+    <id>https://theboy.top/2019/10/01/</id>
     <published>2019-10-01T04:00:00.000Z</published>
     <updated>2019-10-19T07:45:53.502Z</updated>
     
@@ -60,17 +86,17 @@
     </summary>
     
     
-      <category term="生活感悟" scheme="http://www.theboy.top/categories/%E7%94%9F%E6%B4%BB%E6%84%9F%E6%82%9F/"/>
+      <category term="生活感悟" scheme="https://theboy.top/categories/%E7%94%9F%E6%B4%BB%E6%84%9F%E6%82%9F/"/>
     
     
-      <category term="第一篇博客" scheme="http://www.theboy.top/tags/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+      <category term="第一篇博客" scheme="https://theboy.top/tags/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
     
   </entry>
   
   <entry>
     <title>美妙的夜晚</title>
-    <link href="http://www.theboy.top/2019/06/27/"/>
-    <id>http://www.theboy.top/2019/06/27/</id>
+    <link href="https://theboy.top/2019/06/27/"/>
+    <id>https://theboy.top/2019/06/27/</id>
     <published>2019-06-27T05:06:05.000Z</published>
     <updated>2019-10-19T07:46:42.695Z</updated>
     
@@ -87,7 +113,7 @@
     
     
     
-      <category term="随笔" scheme="http://www.theboy.top/tags/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="https://theboy.top/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
